@@ -1,7 +1,6 @@
 function main() {
     // Only change code below this line
-    var myString = "This is the first string." + " This is the second string.";
-    // myString is "This is the first string. This is the second string."
+    var myString = '<a href="http://www.example.com" target="_blank">Link</a>';
     // Only change code above this line
     return myString;
     }
